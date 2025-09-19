@@ -1,4 +1,4 @@
-# TP1-Encontrar uma Expressao Regular: String Binaria que nao inclua a substring "011"
+# TP1-Encontrar uma Expressão Regular: String Binária que não inclua a substring "011"
 
 ## Autor 
 - **Nome:** Miguel Silva  
@@ -7,7 +7,7 @@
 - ![Foto](unipic.jpg)
 
 ## Resumo
-O objetivo deste projeto é encontrar uma String Binaria que nao inclua a substring "011".
+O objetivo deste projeto é encontrar uma String Binária que não inclua a substring "011".
 
 ## Resultados
 
