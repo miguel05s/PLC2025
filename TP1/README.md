@@ -11,6 +11,7 @@
 O objetivo deste projeto é encontrar uma String Binária que não inclua a substring "011".
 
 ## Resultados
+Através deste código podemos testar se expressão regular realmente representa umma String que não tenha a substring "011"
 [Code](tp1.py)
 
 
