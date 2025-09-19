@@ -11,7 +11,9 @@
 O objetivo deste projeto é encontrar uma String Binária que não inclua a substring "011".
 
 ## Resultados
-- A expressão que melhor representa a String Binária é: ^(?!.*011)[01]*$
+- A expressão que melhor representa a String Binária é:
+-```regex
+^(?!.011)[01]$
 - Este código verifica se uma sequência de 0s e 1s não contém "011" e retorna True ou False para cada teste.
 [Code](tp1.py)
 
