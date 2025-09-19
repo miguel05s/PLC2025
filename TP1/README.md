@@ -11,5 +11,6 @@
 O objetivo deste projeto é encontrar uma String Binária que não inclua a substring "011".
 
 ## Resultados
+[Code](tp1.py)
 
 
