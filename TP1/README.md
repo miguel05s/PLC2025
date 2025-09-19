@@ -4,7 +4,8 @@
 - **Nome:** Miguel Silva  
 - **ID:** A109069
 - **Foto:**
-- ![Foto](unipic.jpg)
+- <img src="unipic.jpg" alt="Foto" width="120"/>
+
 
 ## Resumo
 O objetivo deste projeto é encontrar uma String Binária que não inclua a substring "011".
