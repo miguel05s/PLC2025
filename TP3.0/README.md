@@ -4,7 +4,7 @@
 - **Nome:** Miguel Silva  
 - **ID:** A109069
 - **Foto:**
-- <img src="unipic(1).jpg" alt="Foto" width="120"/>
+- <img src="unipic.jpg" alt="Foto" width="120"/>
 
 
 
