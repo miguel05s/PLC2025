@@ -47,7 +47,7 @@ Imagens
 ```
 ![alt](url) → <img src="url" alt="alt"/>
 ```
-###Como usar
+### Como usar
 
 Cria um ficheiro tpc3.md com o conteúdo Markdown.
 
