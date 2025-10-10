@@ -40,12 +40,15 @@ HTML:
 </ol>
 ```
 Links
+```
 [texto](url) → <a href="url">texto</a>
-
+```
 Imagens
+```
 ![alt](url) → <img src="url" alt="alt"/>
+```
+###Como usar
 
-Como usar
 Cria um ficheiro tpc3.md com o conteúdo Markdown.
 
 Executa o script Python tp3.py.
