@@ -31,5 +31,27 @@ Markdown:
 1. Primeiro item  
 2. Segundo item  
 3. Terceiro item
+```
+HTML:
+```
+<ol>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ol>
+```
+Links
+[texto](url) → <a href="url">texto</a>
+
+Imagens
+![alt](url) → <img src="url" alt="alt"/>
+
+Como usar
+Cria um ficheiro tpc3.md com o conteúdo Markdown.
+
+Executa o script Python tp3.py.
+
+O resultado será gravado automaticamente em tpc3.html.
+
+
 
 
