@@ -9,7 +9,7 @@
 
 
 Este projeto foi desenvolvido para a disciplina de **Processamento de Linguagens e Compiladores** e consiste num pequeno conversor de texto em formato Markdown para HTML, utilizando Python.
-
+Em conjunto com [Code](tp3.py), está um pequeno exemplo para testar.
 ---
 
 ## Funcionalidades
