@@ -48,13 +48,7 @@ Imagens
 ```
 ![alt](url) → <img src="url" alt="alt"/>
 ```
-### Como usar
 
-Cria um ficheiro tpc3.md com o conteúdo Markdown.
-
-Executa o script Python tp3.py.
-
-O resultado será gravado automaticamente em tpc3.html.
 
 
 
