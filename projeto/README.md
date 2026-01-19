@@ -15,7 +15,7 @@ Compilar:
 ```
 python -m src.main tests/entrada.pas -o examples/saida.vm
 ```
-Se omitir `-o`, escreve para stdout. Os `.vm` não estão no repo; gere-os ao vivo para a defesa.
+
 
 ## Subconjunto suportado
 - Tipos: integer, real, boolean, string; arrays 1D com limites inteiros constantes.
